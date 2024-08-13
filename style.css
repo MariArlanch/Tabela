@@ -1,0 +1,13 @@
+#theader, #lanche, #tarde, #filé, #pizza, #Nutella {
+    background-color: rgb(224, 43, 218);
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 88%;
+}
+
+table th, td{
+    border: 1px solid black;
+}
